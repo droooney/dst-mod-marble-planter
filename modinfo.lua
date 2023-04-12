@@ -1,7 +1,7 @@
 name = "Marble Planter"
-description = "Plants marbles around a tile for gunpowder farming"
+description = "Plants marble beans around a tile for gunpowder farming"
 author = "jimmybaxter"
-version = "1.0"
+version = "1.1"
 api_version = 10
 dst_compatible = true
 all_clients_require_mod = false
